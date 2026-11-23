@@ -1,0 +1,8 @@
+Metric,Value
+Total Test Customers,1409.0
+Logistic Regression Accuracy,0.8055358410220014
+Random Forest Accuracy,0.7700496806245565
+Logistic Regression Recall,0.5588235294117647
+Random Forest Recall,0.6336898395721925
+Logistic Regression ROC-AUC,0.8421349040274871
+Random Forest ROC-AUC,0.8225141439975199

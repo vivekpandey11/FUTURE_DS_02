@@ -1,0 +1,4 @@
+RiskCategory,Total_Customers,Churned_Customers,Churn_Rate
+Low Risk,3800,331,8.710526315789474
+Medium Risk,2431,970,39.90127519539284
+High Risk,812,568,69.95073891625616
